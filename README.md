@@ -70,6 +70,11 @@ sudo apt update
 sudo apt install vokoscreen-ng
 ```
 
+## Install ticktick (work management)
+```
+sudo snap install ticktick
+```
+
 ## Install unrar:
 ```
 sudo apt-get install unrar
