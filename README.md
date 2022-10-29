@@ -14,7 +14,7 @@ https://itsfoss.com/reinstall-ubuntu/
 ### How to Fix Minimal BASH Like Line Editing is Supported GRUB Error In Linux?
 https://www.geeksforgeeks.org/how-to-fix-minimal-bash-like-line-editing-is-supported-grub-error-in-linux/  
 at last please change prirority in boot.
-
+SS
 # Begin Ubuntu
 ## Install chrome after everything become OK:
 ```
@@ -55,6 +55,12 @@ sudo update-alternatives  --set python /usr/bin/python3.8
 ### Install vscode
 ```
 sudo snap install --classic code # or code-insiders
+```
+### install extention offline
+```
+1. download an extention
+2. go to extentinos.
+3. select `install from vsix` from ...
 ```
 
 ### Install python virtualenv 
