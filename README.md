@@ -28,7 +28,7 @@ https://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ub
 aparat.com/v/mKcTf/Add_Persian_language_in_Kali_Linux_%7C_اضافه_کردن_زبان  
 https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language
 
-## Install SMPlayer:
+## Install SMPlayer (Video player):
 ```
 sudo add-apt-repository ppa:rvm/smplayer 
 sudo apt-get update 
@@ -52,7 +52,10 @@ or:
 sudo update-alternatives  --set python /usr/bin/python3.8
 ```
 
-https://www.tecmint.com/install-visual-studio-code-on-linux/
+### Install vscode
+```
+sudo snap install --classic code # or code-insiders
+```
 
 ### Install python virtualenv 
 ```
