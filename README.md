@@ -30,6 +30,10 @@ https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language
 
 ## Install SMPlayer (Video player):
 ```
+sudo snap install smplayer
+```
+or
+```
 sudo add-apt-repository ppa:rvm/smplayer 
 sudo apt-get update 
 sudo apt-get install smplayer smplayer-themes smplayer-skins
