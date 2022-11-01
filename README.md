@@ -17,7 +17,7 @@ https://www.geeksforgeeks.org/how-to-fix-minimal-bash-like-line-editing-is-suppo
 at last please change prirority in boot.
 SS
 # Begin Ubuntu
-## Install chrome after everything become OK:
+## Install chrome after everything becomes OK:
 ```
 sudo apt update
 sudo apt upgrade
