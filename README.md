@@ -1,5 +1,5 @@
 # Installation-Ubuntu
-s
+
 ### Install Ubuntu desktop
 https://ubuntu.com/tutorials/install-ubuntu-desktop#3-create-a-bootable-usb-stick
 ### Install etcher for flash device
