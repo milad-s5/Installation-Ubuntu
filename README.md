@@ -103,7 +103,7 @@ sudo dpkg -i package_file.deb
 sudo apt-get remove package_name
 ```
 
-## Install telegram!
+## Install telegram
 ```
 sudo snap install telegram-desktop
 ```
