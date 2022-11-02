@@ -1,23 +1,21 @@
 # Installation-Ubuntu
 
 ### Install Ubuntu desktop
-https://ubuntu.com/tutorials/install-ubuntu-desktop#3-create-a-bootable-usb-stick
+[link](https://ubuntu.com/tutorials/install-ubuntu-desktop#3-create-a-bootable-usb-stick)
 ### Install etcher for flash device
-https://www.balena.io/etcher/
-
+[link](https://www.balena.io/etcher/)
 ## Dual boot:
 [Install ubuntu](https://techtik.com/2020/06/22/install-ubuntu/)
-
 [Install ubuntu beside windows](codefriend.ir/2020/03/05/نصب-اوبونتو-در-کنار-ویندوز/)
 
-### How to Reinstall Ubuntu in Dual Boot or Single Boot Mode
-https://itsfoss.com/reinstall-ubuntu/
-### How to Fix Minimal BASH Like Line Editing is Supported GRUB Error In Linux?
-https://www.geeksforgeeks.org/how-to-fix-minimal-bash-like-line-editing-is-supported-grub-error-in-linux/  
-at last please change prirority in boot.
-SS
+### Reinstall Ubuntu in Dual Boot or Single Boot Mode
+[Reinstall Ubuntu](https://itsfoss.com/reinstall-ubuntu/)
+### Fix Minimal BASH Like Line Editing is Supported GRUB Error In Linux?
+[Fix Minimal BASH](https://www.geeksforgeeks.org/how-to-fix-minimal-bash-like-line-editing-is-supported-grub-error-in-linux/  )
+At last please change prirority in boot.
+
 # Begin Ubuntu
-## Install chrome after everything becomes OK:
+## Install chrome:
 ```
 sudo apt update
 sudo apt upgrade
@@ -25,9 +23,17 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
 
-https://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubuntu-18-04/
-aparat.com/v/mKcTf/Add_Persian_language_in_Kali_Linux_%7C_اضافه_کردن_زبان  
-https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language
+### install chrome extention offline
+```
+1. Download an extention
+2. Go to extentinos.
+3. Select `install from vsix` from ...
+```
+
+## Some settings
+[Alt-tab display separate windows](https://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubuntu-18-04/)
+[Add persian language](aparat.com/v/mKcTf/Add_Persian_language_in_Kali_Linux_%7C_اضافه_کردن_زبان)
+[Ctrl-shift to change language](https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language)
 
 ## Install SMPlayer (Video player):
 ```
@@ -61,20 +67,17 @@ sudo update-alternatives  --set python /usr/bin/python3.8
 ```
 sudo snap install --classic code # or code-insiders
 ```
-### install extention offline
-```
-1. download an extention
-2. go to extentinos.
-3. select `install from vsix` from ...
-```
 
 ### Install python virtualenv 
 ```
 sudo apt-get install python3.8-venv
 ```
 
-
 ## Install screen recorder
+```
+sudo snap install vokoscreen-ng
+```
+or
 ```
 sudo add-apt-repository ppa:ubuntuhandbook1/apps
 sudo apt update
@@ -97,7 +100,7 @@ sudo dpkg -i package_file.deb
 sudo apt-get remove package_name
 ```
 
-## Install telegram: turn on VPN!
+## Install telegram!
 ```
 sudo snap install telegram-desktop
 ```
