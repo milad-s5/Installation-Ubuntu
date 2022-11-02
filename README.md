@@ -1,9 +1,9 @@
 # Installation-Ubuntu
 
 ### Install Ubuntu desktop
-[link](https://ubuntu.com/tutorials/install-ubuntu-desktop#3-create-a-bootable-usb-stick)
+[Install Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#3-create-a-bootable-usb-stick)
 ### Install etcher for flash device
-[link](https://www.balena.io/etcher/)
+[Install etcher](https://www.balena.io/etcher/)
 ## Dual boot:
 [Install ubuntu](https://techtik.com/2020/06/22/install-ubuntu/)
 [Install ubuntu beside windows](codefriend.ir/2020/03/05/نصب-اوبونتو-در-کنار-ویندوز/)
@@ -11,7 +11,8 @@
 ### Reinstall Ubuntu in Dual Boot or Single Boot Mode
 [Reinstall Ubuntu](https://itsfoss.com/reinstall-ubuntu/)
 ### Fix Minimal BASH Like Line Editing is Supported GRUB Error In Linux?
-[Fix Minimal BASH](https://www.geeksforgeeks.org/how-to-fix-minimal-bash-like-line-editing-is-supported-grub-error-in-linux/  )
+[Fix Minimal BASH](https://www.geeksforgeeks.org/how-to-fix-minimal-bash-like-line-editing-is-supported-grub-error-in-linux/)
+
 At last please change prirority in boot.
 
 # Begin Ubuntu
