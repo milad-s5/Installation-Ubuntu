@@ -6,9 +6,9 @@ https://ubuntu.com/tutorials/install-ubuntu-desktop#3-create-a-bootable-usb-stic
 https://www.balena.io/etcher/
 
 ## Dual boot:
-https://techtik.com/2020/06/22/install-ubuntu/
+[Install ubuntu](https://techtik.com/2020/06/22/install-ubuntu/)
 
-codefriend.ir/2020/03/05/نصب-اوبونتو-در-کنار-ویندوز/
+[Install ubuntu beside windows](codefriend.ir/2020/03/05/نصب-اوبونتو-در-کنار-ویندوز/)
 
 ### How to Reinstall Ubuntu in Dual Boot or Single Boot Mode
 https://itsfoss.com/reinstall-ubuntu/
