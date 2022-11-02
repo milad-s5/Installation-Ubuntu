@@ -33,7 +33,9 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 ## Some settings
 [Alt-tab display separate windows](https://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubuntu-18-04/)
+
 [Add persian language](aparat.com/v/mKcTf/Add_Persian_language_in_Kali_Linux_%7C_اضافه_کردن_زبان)
+
 [Ctrl-shift to change language](https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language)
 
 ## Install SMPlayer (Video player):
