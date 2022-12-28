@@ -4,6 +4,11 @@
 [Install Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#3-create-a-bootable-usb-stick)
 ### Install etcher for flash device
 [Install etcher](https://www.balena.io/etcher/)
+#### Format the flash disk after installation
+```
+sudo apt install gparted
+sudo gparted
+```
 ## Dual boot:
 [Install ubuntu](https://techtik.com/2020/06/22/install-ubuntu/)
 [Install ubuntu beside windows](codefriend.ir/2020/03/05/نصب-اوبونتو-در-کنار-ویندوز/)
