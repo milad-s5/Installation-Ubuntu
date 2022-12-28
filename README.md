@@ -57,12 +57,12 @@ INSTALL ZENMATE FROM A ZIP FILE
 
 [Ctrl-shift to change language](https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language)
 ```
-sudo apt-get install gnome-tweaks
-Then open GNOME Tweaks (gnome-tweaks).
-Select Keyboard & Mouse tab
-Click Additional Layout Options button
-Expand Switching to another layout
-Select Alt + Shift here
+1. sudo apt-get install gnome-tweaks
+2. Then open GNOME Tweaks (gnome-tweaks).
+3. Select Keyboard & Mouse tab
+4. Click Additional Layout Options button
+5. Expand Switching to another layout
+6. Select Alt + Shift here
 ```
 
 ## Install SMPlayer (Video player):
