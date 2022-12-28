@@ -31,9 +31,13 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 ### install chrome extention offline
 ```
-1. Download an extention
-2. Go to extentinos.
-3. Select `install from vsix` from ...
+https://chrome-stats.com/
+
+INSTALL ZENMATE FROM A ZIP FILE
+1. Download and uncompress the ZenMate ZIP file to a directory of your choice.
+2. In Chrome browser, go to chrome://extensions
+3. Enable Developer mode, then click on the Load Unpacked button.
+4. Select the directory of with the unpacked ZIP files from step 1. ZenMate is now installed on your browser.
 ```
 
 ## Some settings
@@ -82,6 +86,12 @@ sudo update-alternatives  --set python /usr/bin/python3.8
 ### Install vscode
 ```
 sudo snap install --classic code # or code-insiders
+```
+#### Install vscode extenstion
+```
+1. Download an extention
+2. Go to extentinos.
+3. Select `install from vsix` from ...
 ```
 
 ### Install python virtualenv 
