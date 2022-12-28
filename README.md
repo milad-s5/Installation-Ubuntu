@@ -39,9 +39,17 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 ## Some settings
 [Alt-tab display separate windows](https://ubuntuhandbook.org/index.php/2019/02/alt-tab-display-separate-windows-ubuntu-18-04/)
 
-[Add persian language](aparat.com/v/mKcTf/Add_Persian_language_in_Kali_Linux_%7C_اضافه_کردن_زبان)
+[Add persian language](https://www.aparat.com/v/mKcTf/Add_Persian_language_in_Kali_Linux_%7C_%D8%A7%D8%B6%D8%A7%D9%81%D9%87_%DA%A9%D8%B1%D8%AF%D9%86_%D8%B2%D8%A8%D8%A7%D9%86)
 
 [Ctrl-shift to change language](https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language)
+```
+sudo apt-get install gnome-tweaks
+Then open GNOME Tweaks (gnome-tweaks).
+Select Keyboard & Mouse tab
+Click Additional Layout Options button
+Expand Switching to another layout
+Select Alt + Shift here
+```
 
 ## Install SMPlayer (Video player):
 ```
