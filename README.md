@@ -65,6 +65,13 @@ INSTALL ZENMATE FROM A ZIP FILE
 6. Select Alt + Shift here
 ```
 
+[Enable single click to open files](https://askubuntu.com/questions/516799/how-to-enable-single-click-to-open-files)
+```
+1. Go to files then click on Preferences
+2. Click on the Behavior Tab
+3. Click on Single Click to open items
+```
+
 ## Install SMPlayer (Video player):
 ```
 sudo snap install smplayer
