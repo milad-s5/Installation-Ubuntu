@@ -85,7 +85,7 @@ sudo apt-get install smplayer smplayer-themes smplayer-skins
 
 ## Install Master PDF Editor
 ```
-1. download it from https://code-industry.net/get-master-pdf-editor-for-ubuntu/?download
+1. download it from the [link](https://code-industry.net/get-master-pdf-editor-for-ubuntu/?download)
 2. sudo apt install ./Downloads/master-pdf-editor-5.9.20-qt5.x86_64.deb
 ```
 
