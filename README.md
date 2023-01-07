@@ -72,7 +72,7 @@ INSTALL ZENMATE FROM A ZIP FILE
 3. Click on Single Click to open items
 ```
 
-## Install SMPlayer (Video player):
+## Install SMPlayer (Video player)
 ```
 sudo snap install smplayer
 ```
@@ -81,6 +81,12 @@ or
 sudo add-apt-repository ppa:rvm/smplayer 
 sudo apt-get update 
 sudo apt-get install smplayer smplayer-themes smplayer-skins
+```
+
+## Install Master PDF Editor
+```
+1. download it from https://code-industry.net/get-master-pdf-editor-for-ubuntu/?download
+2. sudo apt install ./Downloads/master-pdf-editor-5.9.20-qt5.x86_64.deb
 ```
 
 ## Python and git
