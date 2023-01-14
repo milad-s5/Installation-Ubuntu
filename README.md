@@ -105,6 +105,15 @@ or:
 ```
 sudo update-alternatives  --set python /usr/bin/python3.8
 ```
+### Install python3.9
+```
+sudo apt update 
+sudo apt install software-properties-common 
+sudo add-apt-repository ppa:deadsnakes/ppa 
+sudo apt update 
+sudo apt install python3.9 
+python3.9 -V 
+```
 
 ### [Install specifiec version of python](https://tecadmin.net/install-python-3-8-ubuntu/)
 ```
