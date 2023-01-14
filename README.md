@@ -139,6 +139,16 @@ sudo make altinstall
 python3.8 -V
 ```
 
+## ssh server
+```
+sudo apt-get install openssh-server
+sudo systemctl enable ssh
+sudo systemctl start ssh
+
+# test
+ssh userName@Your-server-name-IP
+```
+
 ### Install vscode
 ```
 sudo snap install --classic code # or code-insiders
