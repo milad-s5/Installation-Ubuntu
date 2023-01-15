@@ -89,6 +89,11 @@ sudo apt-get install smplayer smplayer-themes smplayer-skins
 2. sudo apt install ./Downloads/master-pdf-editor-5.9.20-qt5.x86_64.deb
 ```
 
+## Install notion
+```
+sudo snap install notion-snap
+```
+
 ## Python and git
 ```
 sudo apt install git
