@@ -3,7 +3,7 @@ sudo apt update -y
 sudo apt upgrade -y
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb -y
-
+# Install other programs
 sudo apt-get install gnome-tweaks
 sudo snap install smplayer
 sudo snap install notion-snap
