@@ -16,6 +16,5 @@ sudo snap install vokoscreen-ng
 sudo snap install ticktick
 sudo apt-get install unrar
 sudo snap install telegram-desktop
-
 # Install Master PDF Editor: download it from the https://code-industry.net/get-master-pdf-editor-for-ubuntu/?download
 sudo apt install ./Downloads/master-pdf-editor-5.9.20-qt5.x86_64.deb -y
