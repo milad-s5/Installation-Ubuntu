@@ -72,6 +72,13 @@ INSTALL ZENMATE FROM A ZIP FILE
 3. Click on Single Click to open items
 ```
 
+[Set keyboard shortcuts for screenshots](https://help.ubuntu.com/stable/ubuntu-help/keyboard-shortcuts-set.html.en)
+```
+1. Click on Settings.
+2. Click Keyboard in the sidebar to open the panel.
+3. In the Keyboard Shortcuts section, select screenshots Shortcuts.
+```
+
 ## Install SMPlayer (Video player)
 ```
 sudo snap install smplayer
@@ -133,19 +140,6 @@ pip3 install --upgrade setuptools
 python3.9 -m pip install --upgrade pip
 pip3 install --upgrade distlib
 python -m pip install jupyter notebook -U
-```
-
-### [Install specifiec version of python](https://tecadmin.net/install-python-3-8-ubuntu/)
-```
-sudo apt-get install build-essential checkinstall
-sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi-dev zlib1g-dev
-
-sudo wget https://www.python.org/ftp/python/3.8.12/Python-3.8.12.tgz
-sudo tar xzf Python-3.8.12.tgz
-cd Python-3.8.12
-sudo ./configure --enable-optimizations
-sudo make altinstall
-python3.8 -V
 ```
 
 ## ssh server
